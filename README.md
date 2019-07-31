@@ -7,4 +7,4 @@ Amplitude integration for [Analytics.js][].
 Released under the [MIT license](LICENSE).
 
 
-[Analytics.js]: https://segment.com/docs/libraries/analytics.js/
+[Analytics.js]: https://docs.metarouter.io/v2/clickstream/destinations/amplitude.html
